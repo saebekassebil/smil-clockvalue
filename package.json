@@ -1,0 +1,34 @@
+{
+  "name": "smil-clockvalue",
+  "version": "0.0.1",
+  "description": "Parses SMIL clock values",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "devDependencies": {
+    "tape": "~2.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saebekassebil/smil-clockvalue.git"
+  },
+  "homepage": "https://github.com/saebekassebil/smil-clockvalue",
+  "keywords": [
+    "smil",
+    "clock",
+    "value",
+    "parser",
+    "timing",
+    "synchronization"
+  ],
+  "author": {
+    "name": "Jakob Miland",
+    "email": "saebekassebil@gmail.com",
+    "url": "saebekassebil.me"
+  },
+  "license": "MIT"
+}
